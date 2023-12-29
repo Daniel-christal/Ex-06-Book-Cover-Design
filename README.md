@@ -1,4 +1,4 @@
-# Ex-06-Book-Cover-Design
+# Ex-08-Book-Cover-Design
 # AIM:
 To design a static web site for a book cover page.
 
